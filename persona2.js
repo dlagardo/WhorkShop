@@ -1,3 +1,5 @@
+
+//funcion para cargar en el storage
 function test() {
     console.log("Ejecutando función test()");
     var nombre = document.getElementById("nombretxt").value;
@@ -24,7 +26,7 @@ function test() {
 }
 
 
-
+//funcion para eliminar del storage
 function test2() {
     console.log("Ejecutando función test()");
     // var nombre =  document.getElementById("nombretxt").value;
